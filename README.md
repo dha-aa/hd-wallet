@@ -1,6 +1,6 @@
 # Hd-Wallet Generator App
 
-website : https://hd-wallet-jxik4eho4-dhananjays-projects-9a9acfdd.vercel.app/
+website : https://hd-wallet-kohl.vercel.app/
 
 ## Overview
 This project is a React-based application that generates and manages cryptocurrency wallets using mnemonics and private/public keys. It is built with Next.js and Zustand for state management.
