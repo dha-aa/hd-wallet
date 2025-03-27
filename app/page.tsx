@@ -15,7 +15,6 @@ export default function Home() {
     addKey,
     removeWallet,
     clearAllWallets,
-    incrementWalletCount,
     resetWalletCount,
   } = useMnoStore();
 
