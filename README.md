@@ -5,7 +5,7 @@ website : https://hd-wallet-kohl.vercel.app/
 ## Overview
 This project is a React-based application that generates and manages cryptocurrency wallets using mnemonics and private/public keys. It is built with Next.js and Zustand for state management.
 
-![brave_screenshot_localhost](https://hd-wallet-kohl.vercel.app/)
+![brave_screenshot_localhost](https://github.com/user-attachments/assets/1ddd8c06-fcee-4252-bce0-52994639bd91)
 ## Features
 - Generate a new mnemonic phrase.
 - Import a custom mnemonic.
